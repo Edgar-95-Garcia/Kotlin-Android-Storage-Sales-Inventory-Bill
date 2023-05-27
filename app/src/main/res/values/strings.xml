@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="spinner_entries">
+        <item>Aceite sintético AS120EX 25 (por unidad)</item>
+        <item>Diesel DR231EX 9 (por litro)</item>
+        <item>Gasolina 87 octanos GA092EX 6 (por litro)</item>
+        <item>Gas licuado LI852EX 10 (por litro)</item>
+        <item>Aceite extendedor parafinico AEP12EX 13 (por unidad)</item>
+    </string-array>
+</resources>
